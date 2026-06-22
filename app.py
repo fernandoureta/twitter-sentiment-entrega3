@@ -157,6 +157,6 @@ if predict_btn:
 st.divider()
 st.caption(
     "Proyecto: Twitter Entity Sentiment Analysis · "
-    "Estadística 98 para Ingeniería Informática · "
+    "Mineria de datos , Ingeniería Informática · "
     "Entrenado con LightGBM + TF-IDF + features tabulares · F1-macro test: 0.7515"
 )
